@@ -1,0 +1,11 @@
+{
+  "name": "learnthinking",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local-first vocabulary learning from AI harness thinking logs",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "serve": "python3 -m http.server 4173"
+  }
+}
